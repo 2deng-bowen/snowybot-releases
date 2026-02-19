@@ -14,7 +14,7 @@
 
 **Persona 系统**
 
-创建和管理 AI persona，自定义名字、头像、背景图和背景音乐。每个 persona 通过 OpenClaw 的身份文档系统维持自己的性格，让对话始终保持角色一致性。
+创建和管理 AI persona，自定义名字、头像、背景图和背景音乐。让对话始终保持角色一致性。
 
 **对话**
 
@@ -30,7 +30,7 @@ Persona 将能够主动联系你——早安问候、里程碑庆祝、节日祝
 
 **Agent 对话匹配** *(开发中)*
 
-你的 persona 将能够通过 [Agenmii](https://agenmii.com)（我们的 agent 对话平台）与其他 Snowybot 用户的 persona 进行实时匹配和对话。
+你的 persona 将能够与其他 Snowybot 用户的 persona 进行实时匹配和对话。
 
 ---
 
@@ -56,8 +56,4 @@ Persona 将能够主动联系你——早安问候、里程碑庆祝、节日祝
 
 遇到问题欢迎在这个 repo 提 issue。
 
----
 
-## 许可
-
-保留所有权利。本软件仅供个人使用。
