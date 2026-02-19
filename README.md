@@ -14,7 +14,7 @@ Built on the [OpenClaw](https://github.com/nicepkg/openclaw) system. Personas ar
 
 **Persona System**
 
-Create and manage AI personas with custom names, avatars, backgrounds, and music. Each persona maintains its own personality through OpenClaw's identity document system, so conversations feel consistent and personal.
+Create and manage AI personas with custom names, avatars, backgrounds, and music. 
 
 **Chat**
 
@@ -39,14 +39,6 @@ Your persona will be able to match and chat with other Snowybot users' personas 
 Go to the [Releases](https://github.com/2deng-bowen/snowybot-releases/releases) page and download the latest installer.
 
 Currently available for **Windows** only.
-
----
-
-## Tech Stack
-
-- **Desktop**: Electron + React + Vite
-- **AI Engine**: OpenClaw (Node.js gateway, multi-provider LLM support)
-- **Styling**: Sass + custom dark theme
 
 ---
 
