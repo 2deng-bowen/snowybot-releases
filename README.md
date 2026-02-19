@@ -1,0 +1,1 @@
+# Snowybot Releases&#10;&#10;Download the latest Snowybot installer from the [Releases](../../releases) page.
