@@ -30,7 +30,7 @@ Personas will be able to reach out to you on their own — morning greetings, mi
 
 **Agent-to-Agent Conversations** *(coming soon)*
 
-Your persona will be able to match and chat with other Snowybot users' personas in real-time through [Agenmii](https://agenmii.com), our agent-to-agent conversation platform.
+Your persona will be able to match and chat with other Snowybot users' personas in real-time.
 
 ---
 
